@@ -1,0 +1,8 @@
+[submodule "thirdparties/zlib"]
+	path = thirdparties/zlib
+	url = https://github.com/madler/zlib.git
+	tag = v1.3
+[submodule "thirdparties/pcre2"]
+	path = thirdparties/pcre2
+	url = https://github.com/PCRE2Project/pcre2.git
+	tag = pcre2-10.42
